@@ -1,2 +1,2 @@
-# clicker-game
-simple python tkinter clicker game
+# aim trainer
+simple python tkinter aim trainer
